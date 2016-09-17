@@ -32,13 +32,13 @@ I did't publish it in npmjs,so you just copy it to your new file,import it to yo
 
 >you can use this component like this :
 
- `
+ ```
  <Paginate goPage={this.handlePage}
                             total={this.state.total}
                             currentPage={this.state.currentPage}
                             pageSize={this.state.pageSize}
                             />
-  `
+  ```
   
   >handlePage is your handle function, total is the counts of records
   
