@@ -15,6 +15,8 @@ I did't publish it in npmjs,so you just copy it to your new file,import it to yo
 
 >This component needs 4 params
 
+
+`
 ------------------------------------------------------------------------
 |   param's name |  param's type   |  param's receive(func)            |
 ------------------------------------------------------------------------
@@ -26,6 +28,7 @@ I did't publish it in npmjs,so you just copy it to your new file,import it to yo
 ------------------------------------------------------------------------
 |   pageSize     |  number         |                                   |
 ------------------------------------------------------------------------
+`
 
 >you can use this component like this :
 
