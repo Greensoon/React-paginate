@@ -17,7 +17,7 @@ I did't publish it in npmjs,so you just copy it to your new file,import it to yo
 
 
 
-------------------------------------------------------------------------
+|----------------------------------------------------------------------|
 |   param's name |  param's type   |  param's receive(func)            |
 |----------------------------------------------------------------------|
 |   goPage       |  func           |  currentPage({currentPage:val})   |
@@ -27,7 +27,7 @@ I did't publish it in npmjs,so you just copy it to your new file,import it to yo
 |   total        |  number         |                                   |
 |----------------------------------------------------------------------|
 |   pageSize     |  number         |                                   |
-------------------------------------------------------------------------
+|----------------------------------------------------------------------|
 
 
 >you can use this component like this :
