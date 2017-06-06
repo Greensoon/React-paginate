@@ -21,27 +21,31 @@ I did't publish it in npmjs,so you just copy it to your new file,import it to yo
 ***
 
 >This component needs 4 params
-
-
-|----------------------------------------------------------------------|
-|   param's name |  param's type   |  param's receive(func)            |
-|----------------|-----------------|-----------------------------------|
-|   goPage       |  func           |  currentPage({currentPage:val})   |
-|----------------|-----------------|-----------------------------------|
-|   currentPage  |  number         |                                   |
-|----------------|-----------------|-----------------------------------|
-|   total        |  number         |                                   |
-|----------------|-----------------|-----------------------------------|
-|   pageSize     |  number         |                                   |
-|----------------------------------------------------------------------|
 <table class="table table-bordered table-striped table-condensed">
     <tr>
-        <td>北京</td>
-	<td>雾霾</td>
+        <td>param's name</td>
+	<td>param's type</td>
+	<td>param's receive(func)</td>
     </tr>
     <tr>
-        <td>深圳</td>
-	<td>暴雨</td>
+        <td>goPage</td>
+	<td>func</td>
+	<td>currentPage({currentPage:val})</td>
+    </tr>
+    <tr>
+        <td>currentPage</td>
+	<td>number</td>
+	<td></td>
+    </tr>
+    <tr>
+        <td>total</td>
+	<td>number</td>
+	<td></td>
+    </tr>
+    <tr>
+        <td>pageSize</td>
+	<td>number</td>
+	<td></td>
     </tr>
 </table>
 
