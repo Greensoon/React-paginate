@@ -34,6 +34,16 @@ I did't publish it in npmjs,so you just copy it to your new file,import it to yo
 |----------------|-----------------|-----------------------------------|
 |   pageSize     |  number         |                                   |
 |----------------------------------------------------------------------|
+<table class="table table-bordered table-striped table-condensed">
+    <tr>
+        <td>北京</td>
+	<td>雾霾</td>
+    </tr>
+    <tr>
+        <td>深圳</td>
+	<td>暴雨</td>
+    </tr>
+</table>
 
 
 >you can use this component like this :
